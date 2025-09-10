@@ -13,3 +13,8 @@ for i in range(100):
 
 print(szamok)
     
+#Egyszám játék
+jatek_szam = 0
+nem_talaldb = 0
+
+kitalalando_szam = szamok[random.randint(len(szamok))]
