@@ -12,6 +12,7 @@ for i in range(100):
 #Ellenőrzés
 
 print(szamok)
+
     
 #Egyszám játék
 jatek_szam = 0
